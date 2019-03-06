@@ -33,11 +33,11 @@
     "shelljs": "0.7.5",
 
     "soajs.mongodb.data": "2.1.*",
-    "soajs.controller": "2.3.*"
+    "soajs.controller": "git://github.com/mikehajj/soajs.controller.git"
   },
   "dependencies": {
     "oauth2-server": "2.4.1",
-    "soajs": "2.3.0",
-    "soajs.urac.driver": "1.3.0"
+    "soajs": "git://github.com/mikehajj/soajs.git",
+    "soajs.urac.driver": "git://github.com/mikehajj/soajs.urac.driver.git"
   }
 }
